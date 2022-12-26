@@ -1,8 +1,9 @@
-# 🏄‍♂️ Forrest Knight
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+# 🏄‍♂️ Spany
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+Hello, I'm Spany. I entered the software world with my own efforts and I am interested in improving myself. I am a content creator and developing discord bots on the discord platform. I am a 2nd high school student. I motivate myself by being interested in software. I share my projects on both github and youtube. You can reach my YouTube channel from this link. [Spany](https://www.youtube.com/@spanyries)
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
