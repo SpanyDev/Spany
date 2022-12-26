@@ -1,4 +1,4 @@
-![logo](https://media.discordapp.net/attachments/1051561736672641145/1056936624019218462/SpanyBanner.png?width=885&height=498](https://bilisimprofesyonelleri.com/wp-content/uploads/2020/12/Bilisim-Profesyonelleri-gif.gif)
+![logo](https://bilisimprofesyonelleri.com/wp-content/uploads/2020/12/Bilisim-Profesyonelleri-gif.gif)
 
 # 🏄‍♂️ Spany
 
