@@ -32,9 +32,6 @@ Hello, I'm Spany. I entered the software world with my own efforts and I am inte
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
-
-<details>
- <summary><h3>👨‍💻 Spany's Coding Journey</h3></summary>
-
+ 
 [website]: https://spanydev.live
 [youtube]: https://youtube.com/@spanyries
