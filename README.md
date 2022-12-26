@@ -1,15 +1,8 @@
 # 🏄‍♂️ Spany
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Spany (Developer/Youtuber)`**
 
 Hello, I'm Spany. I entered the software world with my own efforts and I am interested in improving myself. I am a content creator and developing discord bots on the discord platform. I am a 2nd high school student. I motivate myself by being interested in software. I share my projects on both github and youtube. You can reach my YouTube channel from this link. [Spany](https://www.youtube.com/@spanyries)
-
-   <p align="left">
-      <a href="https://www.youtube.com/@spanyries?sub_confirmation=1">
-      <a href="https://www.youtube.com/@spanyries">
-      <a href="https://github.com/SpanyDev?tab=followers">
-      <a href="https://github.com/SpanyDev?tab=repositories&sort=stargazers">
-   </p>
 
 ---
 
@@ -39,13 +32,13 @@ Hello, I'm Spany. I entered the software world with my own efforts and I am inte
 [![I Made a Custom GitHub Profile README Portfolio (and you can, too)](https://ytcards.demolab.com/?id=9A8sQZDRn5o&title=I+Made+a+Custom+GitHub+Profile+README+Portfolio+%28and+you+can%2C+too%29&lang=en&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=655 "I Made a Custom GitHub Profile README Portfolio (and you can, too)")](https://www.youtube.com/watch?v=9A8sQZDRn5o)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@spanyries?sub_confirmation=1)
 
 #
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Spany's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpanyDev&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
