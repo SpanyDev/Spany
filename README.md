@@ -33,5 +33,5 @@ Hello, I'm Spany. I entered the software world with my own efforts and I am inte
 
 #
  
-[website]: https://spanydev.live
-[youtube]: https://youtube.com/@spanyries
+Website: [website](https://spanydev.live)
+YouTube: [youtube](https://youtube.com/@spanyries)
