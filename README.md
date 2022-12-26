@@ -1,4 +1,5 @@
-![logo]([https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://media.discordapp.net/attachments/1051561736672641145/1056936624019218462/SpanyBanner.png?width=885&height=498))
+![logo]([(https://media.discordapp.net/attachments/1051561736672641145/1056936624019218462/SpanyBanner.png?width=885&height=498])
+
 # 🏄‍♂️ Spany
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
