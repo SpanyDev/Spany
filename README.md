@@ -32,7 +32,7 @@ const spany = {
 ## 🛠️ Teknoloji Yığını
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cs,react,vue,nextjs,nodejs,express,django,mongodb,postgres,docker,aws,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,mongodb,postgres,git&theme=dark" />
 </p>
 
 ## 📊 GitHub İstatistikleri
